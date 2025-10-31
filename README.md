@@ -9,6 +9,7 @@
 
 **Football Manager 2026 için gelişmiş yama ve optimizasyon aracı**
 
+
 Lisans düzeltme • Arayüz hızlandırma • Tek dosya
 
 [📥 İndir](#-kurulum) • [📖 Kullanım](#-kullanım) • [🐛 Sorun Bildirme](../../issues)
@@ -31,6 +32,9 @@ Lisans düzeltme • Arayüz hızlandırma • Tek dosya
 ---
 
 ## ✨ Özellikler
+
+### 🎯 Ana Amaç
+- ✅ Sürekli güncelleme alıp bozulan yamaları kolayca yeniden kurmak.
 
 ### 🏆 Lisans Yaması
 - ✅ Takım ve oyuncu isimlerini düzeltir
@@ -234,6 +238,8 @@ Dosya: ui-panelids_assets_all.bundle
 
 ## 📸 Ekran Görüntüleri
 
+<img width="891" height="694" alt="uyg" src="https://github.com/user-attachments/assets/76688434-00c4-48cc-ab59-b63018d32d1d" />
+
 ### Ana Ekran
 ```
 ╔═══════════════════════════════════════════════════╗
@@ -329,15 +335,15 @@ Katkılarınızı bekliyoruz! Projeye katkıda bulunmak için:
 
 ### Katkıda Bulunanlar
 
-- **Arayüz Hızlandırma Yaması:** [BassyBoy](https://github.com/bassyboy)
+- **Arayüz Hızlandırma Yaması:** BassyBoy
 - **Lisans Yamaları:** FMScout
-- **Uygulama Geliştirme:** FM26 Türkiye Topluluğu
+- **Uygulama Geliştirme:** Sedokan54
 
 ---
 
 ## 📝 Lisans
 
-Bu proje **ücretsiz** bir topluluk projesidir. Ticari amaçla kullanılamaz.
+Bu proje **ücretsiz** bir projedir. Ticari amaçla kullanılamaz.
 
 ---
 
@@ -346,7 +352,6 @@ Bu proje **ücretsiz** bir topluluk projesidir. Ticari amaçla kullanılamaz.
 - 🔹 İşlem öncesi `2600` klasörünü yedekleyin (opsiyonel)
 - 🔹 İlk çalıştırmada programı yönetici olarak çalıştırın
 - 🔹 FM26'yı kapatmayı unutmayın
-- 🔹 Gerçek FMScout dosyalarına sahipseniz, onları `lnc\all` klasörüne manuel kopyalayın
 
 ---
 
@@ -365,7 +370,7 @@ Bu proje **ücretsiz** bir topluluk projesidir. Ticari amaçla kullanılamaz.
 
 **İyi oyunlar! ⚽**
 
-Made with ❤️ by FM26 Community
+Made with ❤️ by Sedokan54
 
 [⬆ Başa Dön](#-fm26-patch-fixer)
 
