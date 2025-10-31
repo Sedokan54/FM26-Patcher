@@ -7,7 +7,8 @@
 ![.NET](https://img.shields.io/badge/.NET-6.0-purple.svg)
 ![License](https://img.shields.io/badge/license-Free-green.svg)
 
-**Football Manager 2026 için gelişmiş yama ve optimizasyon aracı**
+**Football Manager 2026 için gelişmiş yama ve optimizasyon aracı
+   Ana Amaç: Sürekli güncelleme alıp bozulan yamaları kolayca yeniden kurmak.**
 
 Lisans düzeltme • Arayüz hızlandırma • Tek dosya
 
