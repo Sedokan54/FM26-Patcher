@@ -234,6 +234,8 @@ Dosya: ui-panelids_assets_all.bundle
 
 ## 📸 Ekran Görüntüleri
 
+<img width="891" height="694" alt="uyg" src="https://github.com/user-attachments/assets/76688434-00c4-48cc-ab59-b63018d32d1d" />
+
 ### Ana Ekran
 ```
 ╔═══════════════════════════════════════════════════╗
