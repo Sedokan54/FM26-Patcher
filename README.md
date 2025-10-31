@@ -333,13 +333,13 @@ Katkılarınızı bekliyoruz! Projeye katkıda bulunmak için:
 
 - **Arayüz Hızlandırma Yaması:** [BassyBoy](https://github.com/bassyboy)
 - **Lisans Yamaları:** FMScout
-- **Uygulama Geliştirme:** FM26 Türkiye Topluluğu
+- **Uygulama Geliştirme:** Sedokan54
 
 ---
 
 ## 📝 Lisans
 
-Bu proje **ücretsiz** bir topluluk projesidir. Ticari amaçla kullanılamaz.
+Bu proje **ücretsiz** bir projedir. Ticari amaçla kullanılamaz.
 
 ---
 
