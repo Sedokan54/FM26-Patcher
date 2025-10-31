@@ -1,0 +1,97 @@
+Bu talimat dizisi FM26 isim lisanslarını düzeltiyor.
+
+Oncelikle bilgisayarin isletim sistemini belirle.
+Daha sonra FM26 yani Football Manager oyunun hangi platformdan sahip olundugunu belirle.(Asagidaki yollari kontrol edebilirsin.)
+FM26 yoksa hata ver.
+
+
+1. Bilgisayarinizda “2600” Klasorunu bul.
+
+WINDOWS:
+
+STEAM
+
+\Program Files (x36)\Steam\steamapps\common|\ Football Manager
+26\shared\data\database\db\2600\
+
+EPIC GAMES
+
+\Program Files\Epic Games \ FootballManager26\ shared data database\ db\ 2600\
+
+MAC:
+
+STEAM
+
+JUsers/[username]/ Library/ Application Support/ Steam/ steamapps/ common] Football
+Manager 26/ fm.app/ Contents/ Pluglns/ game_plugin.bundle/ Contents/ Resources/ shared/
+data/ database/ dbf 2600/
+
+EPIC GAMES
+
+/Users/Shared/ Epic Games/ FootballManager26/ fm.app/ Contents] Pluglns/
+game_plugin.bundle/ Contents/ Resources/ shared data/ database/ db/ 2600/
+
+
+
+2."lnc" dosyasin ac. Dosya icinde yer alan “all” dosyasini ac ve asagidaki dosyalari sil.
+
+ac milan (wom).lnc
+acc Inter unlic 26.lnc
+acmilan unlic 26.lnc
+fake.lnc
+inter (wom).lnc
+inter unlic 26.lnc
+japanese names.lnc
+lazio (wom).lnc
+lic_dan_swe_fra.lnc
+licensing club name_fm26.lnc
+men lazio.lnc
+men.atalanta.lnc
+
+3. FM26 Fix by FMScout.lnc ve FM26 Club Names by FMScout.lnc dosyalarini buraya yapistir. (lnc/all)
+
+4. 2600" Klasorune geri gel ve bu kez dosya icinden “edt” dosyasina gir. Edt dosyasi
+icinden de “permanent” dosyasina gir. “permanent” dosyasi icinden “fake.edt” dosyasini sil.” 
+
+5.2600 Klasorune tekrar geri gel. Bu kez “dbc” dosyasina gidin. Dosyaya gir. Buradan da
+“permanent” dosyasina git. Asagidaki dosyalari sil.
+
+1_japan_removed_clubs.dbc
+brazil_kits.dbc
+england.dbc
+forbidden names.dbc
+france.dbc
+j league non player.dbc
+japan_fake.dbc
+japan_unlicensed_random_names.dbc
+licensing_post_data_lock.dbc
+licensing2.dbc
+licensing26.dbc
+netherlands.dbc
+
+6.Son islem olarak . “2600” klasorundeki “dbc” dosyasi icrisinde yer alan language dosyasi
+icerisinde yer alan 2 dosyayi silin. 
+
+Licensing2.dbc
+Licensing2_chn.dbc
+
+Islem Tamam!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

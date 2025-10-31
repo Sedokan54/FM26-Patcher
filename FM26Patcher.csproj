@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>fm26fixer.ico</ApplicationIcon>
+    <StartupObject>FM26Patcher.Program</StartupObject>
+    <AssemblyName>FM26Patcher</AssemblyName>
+    <RootNamespace>FM26Patcher</RootNamespace>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.0</Version>
+    <Authors>FM26 Community</Authors>
+    <Product>FM26 Lisans Düzeltme</Product>
+    <Description>Football Manager 2026 için otomatik lisans düzeltme aracı</Description>
+    <Copyright>Copyright © 2025</Copyright>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>true</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <PublishReadyToRun>true</PublishReadyToRun>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="fm26fixer.ico" />
+    <EmbeddedResource Include="ui-panelids_assets_all.bundle" />
+    <EmbeddedResource Include="FM26 Fix by FMScout.lnc" />
+    <EmbeddedResource Include="FM26 Club Names by FMScout.lnc" />
+  </ItemGroup>
+
+</Project>
+
+
