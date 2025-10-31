@@ -335,7 +335,7 @@ Katkılarınızı bekliyoruz! Projeye katkıda bulunmak için:
 
 ### Katkıda Bulunanlar
 
-- **Arayüz Hızlandırma Yaması:** [BassyBoy](https://github.com/bassyboy)
+- **Arayüz Hızlandırma Yaması:** BassyBoy
 - **Lisans Yamaları:** FMScout
 - **Uygulama Geliştirme:** Sedokan54
 
@@ -352,7 +352,6 @@ Bu proje **ücretsiz** bir projedir. Ticari amaçla kullanılamaz.
 - 🔹 İşlem öncesi `2600` klasörünü yedekleyin (opsiyonel)
 - 🔹 İlk çalıştırmada programı yönetici olarak çalıştırın
 - 🔹 FM26'yı kapatmayı unutmayın
-- 🔹 Gerçek FMScout dosyalarına sahipseniz, onları `lnc\all` klasörüne manuel kopyalayın
 
 ---
 
@@ -371,7 +370,7 @@ Bu proje **ücretsiz** bir projedir. Ticari amaçla kullanılamaz.
 
 **İyi oyunlar! ⚽**
 
-Made with ❤️ by FM26 Community
+Made with ❤️ by Sedokan54
 
 [⬆ Başa Dön](#-fm26-patch-fixer)
 
