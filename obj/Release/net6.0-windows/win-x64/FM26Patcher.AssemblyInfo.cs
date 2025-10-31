@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © 2025")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Football Manager 2026 için otomatik lisans düzeltme aracı")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb8d6842c36d2073b01ab06d376b904999c246cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("FM26 Lisans Düzeltme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FM26Patcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

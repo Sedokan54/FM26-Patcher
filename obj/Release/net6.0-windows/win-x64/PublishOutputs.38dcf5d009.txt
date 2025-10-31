@@ -1,3 +1,0 @@
-C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\publish_new\FM26Patcher.pdb
-C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\publish_new\ui-panelids_assets_all.bundle
-C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\publish_new\FM26Patcher.exe

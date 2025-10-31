@@ -124,9 +124,9 @@ namespace FM26Patcher
 
             var lncFiles = new List<string>
             {
-                "ac milan (wom).lnc", "acc Inter unlic 26.lnc", "acmilan unlic 26.lnc",
-                "fake.lnc", "inter (wom).lnc", "inter unlic 26.lnc", "japanese names.lnc",
-                "lazio (wom).lnc", "lic_dan_swe_fra.lnc", "licensing club name_fm26.lnc",
+                "ac milan (wom).lnc", "acc Inter unlic 24.lnc", "acmilan unlic 24.lnc",
+                "fake.lnc", "inter (wom).lnc", "inter unlic 24.lnc", "japanese names.lnc",
+                "lazio (wom).lnc", "lic_dan_swe_fra.lnc", "licensing club name_fm24.lnc",
                 "men lazio.lnc", "men.atalanta.lnc"
             };
 

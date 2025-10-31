@@ -1,7 +1,3 @@
-C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\obj\Release\net6.0-windows\win-x64\FM26Patcher.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\obj\Release\net6.0-windows\win-x64\FM26Patcher.AssemblyInfoInputs.cache
-C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\obj\Release\net6.0-windows\win-x64\FM26Patcher.AssemblyInfo.cs
-C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\obj\Release\net6.0-windows\win-x64\FM26Patcher.csproj.CoreCompileInputs.cache
 C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\bin\Release\net6.0-windows\win-x64\FM26Patcher.exe
 C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\bin\Release\net6.0-windows\win-x64\FM26Patcher.deps.json
 C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\bin\Release\net6.0-windows\win-x64\FM26Patcher.runtimeconfig.json
@@ -506,6 +502,11 @@ C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\bin\Release\net6.0-windows\win-
 C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\bin\Release\net6.0-windows\win-x64\zh-Hant\UIAutomationTypes.resources.dll
 C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\bin\Release\net6.0-windows\win-x64\zh-Hant\WindowsBase.resources.dll
 C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\bin\Release\net6.0-windows\win-x64\zh-Hant\WindowsFormsIntegration.resources.dll
+C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\obj\Release\net6.0-windows\win-x64\FM26Patcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\obj\Release\net6.0-windows\win-x64\FM26Patcher.AssemblyInfoInputs.cache
+C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\obj\Release\net6.0-windows\win-x64\FM26Patcher.AssemblyInfo.cs
+C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\obj\Release\net6.0-windows\win-x64\FM26Patcher.csproj.CoreCompileInputs.cache
+C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\obj\Release\net6.0-windows\win-x64\FM26Patcher.sourcelink.json
 C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\obj\Release\net6.0-windows\win-x64\FM26Patc.C7734FE7.Up2Date
 C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\obj\Release\net6.0-windows\win-x64\FM26Patcher.dll
 C:\Users\kaanf\OneDrive\Masaüstü\FMUpdatePatch\obj\Release\net6.0-windows\win-x64\refint\FM26Patcher.dll

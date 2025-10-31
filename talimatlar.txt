@@ -36,15 +36,15 @@ game_plugin.bundle/ Contents/ Resources/ shared data/ database/ db/ 2600/
 2."lnc" dosyasin ac. Dosya icinde yer alan “all” dosyasini ac ve asagidaki dosyalari sil.
 
 ac milan (wom).lnc
-acc Inter unlic 26.lnc
-acmilan unlic 26.lnc
+acc Inter unlic 24.lnc
+acmilan unlic 24.lnc
 fake.lnc
 inter (wom).lnc
-inter unlic 26.lnc
+inter unlic 24.lnc
 japanese names.lnc
 lazio (wom).lnc
 lic_dan_swe_fra.lnc
-licensing club name_fm26.lnc
+licensing club name_fm24.lnc
 men lazio.lnc
 men.atalanta.lnc
 

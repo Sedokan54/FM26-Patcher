@@ -11,13 +11,13 @@ if exist obj rmdir /s /q obj
 if exist publish rmdir /s /q publish
 
 echo [1/3] Proje temizleniyor...
-dotnet clean --configuration Release >nul 2>&1
+dotnet clean FM26Patcher.csproj --configuration Release >nul 2>&1
 
 echo [2/3] Proje derleniyor...
-dotnet build --configuration Release
+dotnet build FM26Patcher.csproj --configuration Release
 
 echo [3/3] Tek dosya .exe oluşturuluyor...
-dotnet publish --configuration Release --output publish --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -p:PublishTrimmed=false
+dotnet publish FM26Patcher.csproj --configuration Release --output publish --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -p:PublishTrimmed=false
 
 echo.
 echo ═══════════════════════════════════════════════════════════
